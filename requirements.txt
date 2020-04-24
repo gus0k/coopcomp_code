@@ -1,0 +1,6 @@
+numpy
+osqp
+pandas
+seaborn
+scipy
+ipython
